@@ -1,0 +1,33 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 20px;
+  background-color: #fdf6f0;
+  color: #333;
+  line-height: 1.6;
+}
+
+h2 {
+  color: #b22222;
+}
+
+h4 {
+  color: #555;
+  font-weight: normal;
+}
+
+hr {
+  margin: 20px 0;
+  border: none;
+  border-top: 1px solid #ccc;
+}
+
+.quote {
+  font-style: italic;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.poema {
+  white-space: pre-line; /* manté salts de línia */
+  font-size: 1.1em;
+}
